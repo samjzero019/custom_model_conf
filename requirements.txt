@@ -1,0 +1,14 @@
+# requirements.txt
+gunicorn
+uvicorn
+numpy 
+scipy 
+scikit-learn 
+pandas
+numpy
+DateTime
+dos2unix
+pyarrow
+boto3 
+nltk 
+xlrd
